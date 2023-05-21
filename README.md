@@ -8,8 +8,13 @@ An online vehicle spare parts management system created using object oriented pr
 This was a 4 member group project, where my conribution was to handle the customer side of the system. I have developed the,
 <br>
 1.Customer Registration
+<br>
 2.Customer Login
+<br>
 3.Update Customer Details
+<br>
 4.Delete Customer Account
+<br>
 5.Home page 
+<br>
 6.About Us Page
