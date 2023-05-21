@@ -5,7 +5,7 @@ An online vehicle spare parts management system created using object oriented pr
 <br>
 OOP Concets Used : Abstraction, Inheritance, Encapsulation and Design patterns [Singleton, DAO]
 
-<br>
+<br><br>
 This was a 4 member group project, where my conribution was to handle the customer side of the system. I have developed the,
 <br>
 1.Customer Registration
