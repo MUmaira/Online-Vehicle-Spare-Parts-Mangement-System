@@ -4,6 +4,8 @@ An online vehicle spare parts management system created using object oriented pr
 ## Tech Stack Used : Java , JSP-Servlets, HTML, CSS, MySQL WorkBench, Apache tomcat 
 <br>
 OOP Concets Used : Abstraction, Inheritance, Encapsulation and Design patterns [Singleton, DAO]
+<br>
+MVC Architecture was followed for the development.
 
 <br><br>
 This was a 4 member group project, where my conribution was to handle the customer side of the system. I have developed the,
@@ -16,6 +18,8 @@ This was a 4 member group project, where my conribution was to handle the custom
 <br><br>
 4.Delete Customer Account
 <br><br>
-5.Home page 
+5.Item Description Page
 <br><br>
-6.About Us Page
+6.Home page 
+<br><br>
+7.About Us Page
