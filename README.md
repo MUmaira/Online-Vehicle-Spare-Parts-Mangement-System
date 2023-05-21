@@ -7,15 +7,15 @@ OOP Concets Used : Abstraction, Inheritance, Encapsulation and Design patterns [
 
 <br><br>
 This was a 4 member group project, where my conribution was to handle the customer side of the system. I have developed the,
-<br>
+<br><br>
 1.Customer Registration
-<br>
+<br><br>
 2.Customer Login
-<br>
+<br><br>
 3.Update Customer Details
-<br>
+<br><br>
 4.Delete Customer Account
-<br>
+<br><br>
 5.Home page 
-<br>
+<br><br>
 6.About Us Page
